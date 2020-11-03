@@ -1,4 +1,30 @@
 .box {
     display: flex;
     padding: 10px;
+    justify-content: center;
+    font-size: 22px;
+}
+
+#crew {
+    color: #e796a0; 
+    border-style: dotted;
+    margin-right: 15px;
+    padding-right: 10px;
+}
+
+#equip {
+    color: #e8b4b0;
+    border-style: solid;
+    margin-right: 15px;
+    padding-right: 10px;
+}
+
+#experi {
+    color: #ECD1cd;
+    border-style: dotted;
+    padding-right: 10px;
+}
+
+body {
+    background-color: cornsilk;
 }
